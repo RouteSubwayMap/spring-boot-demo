@@ -7,6 +7,8 @@ import java.util.Date;
 
 /**
  * 实体类
+ * 
+ * @author wujing
  */
 public class User {
 	private int id;
